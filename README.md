@@ -7,6 +7,6 @@ All the data used are in the train.csv file.
 
 Contributors to this project :
 
-BOMBARD Thierry
-DIALLO Ibrahima
-MARC Jordan
+BOMBARD Thierry,
+DIALLO Ibrahima,
+MARC Jordan.
